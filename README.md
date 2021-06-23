@@ -9,7 +9,7 @@ This e-commerce platform uses Redux to manage global state instead of the Contex
 
 The app passes reducers to a Redux store, extracts state data from the store, and  dispatches actions using Redux instead of the Context API
 
-```
+
 
 ## Deploy
 
