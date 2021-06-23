@@ -26,5 +26,5 @@ The app passes reducers to a Redux store, extracts state data from the store, an
 * [Redux](https://redux.js.org/)
 * [Redux Fundamentals basic tutorial](https://redux.js.org/basics/basic-tutorial)
 
-- - -
+
 © klhi
