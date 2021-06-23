@@ -1,11 +1,9 @@
 # Redux Store
 
-React’s Context API : Flux or MobX
-e-commerce platform code
+This e-commerce platform uses Redux to manage global state instead of the Context API and this website's state management is out of the React ecosystem.
+> React’s Context API : Flux or MobX, e-commerce platform code
 
 ## Features
-
-This e-commerce platform uses Redux to manage global state instead of the Context API and this website's state management is out of the React ecosystem.
 
 The app passes reducers to a Redux store, extracts state data from the store, and  dispatches actions using Redux instead of the Context API
 
