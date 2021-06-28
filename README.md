@@ -25,6 +25,17 @@ import { Provider} from 'react-redux';
 
 ```
 
+# error : Invalid Hook call
+
+run to resolve 
+
+```bash
+
+npm install client/react-redux
+npm install client/redux
+
+```
+
 ## Deploy
 
 * [Github Repository](https://github.com/klhi3/redux-store)
