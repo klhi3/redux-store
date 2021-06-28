@@ -46,6 +46,8 @@ npm install client/redux
 - Display category, product, destail and add & remove it from the shopping cart
 - Checkout
 
+<img src="./client/public/page.gif" width="500" />
+
 
 # links
 
